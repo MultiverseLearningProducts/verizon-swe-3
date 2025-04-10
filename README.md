@@ -15,7 +15,7 @@
 | [Laurie's Calendly 1:1 Coaching](https://calendly.com/laurie-corrin/1-1-coaching-meeting) | Monthly Coaching Meeting |
 | [Laurie's Calendly](https://calendly.com/laurie-corrin) | Other Meetings |
 | [Apprentice Success Repo](https://github.com/MultiverseLearningProducts/SWE-APPRENTICE-SUCCESS/) | Extra lessons and practice on our bootcamp topics for all levels
-| [Recording]()|Flying Start Live Session
+| [Recording](https://drive.google.com/file/d/1d0QKgYeK9hQo3mg99Ilb3YJv5qUNfu_A)|Flying Start Live Session
 | [Workshop Schedule](https://docs.google.com/spreadsheets/d/1H5MGxYiWSYtX5EADSLWBvUG7yhNvhXEY9MgdenCE8zU)|bootcamp topics, daily schedules, etc
 
 ### Extra Challenge
