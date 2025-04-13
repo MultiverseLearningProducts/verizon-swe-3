@@ -14,9 +14,9 @@
 ## Squads
 |Squad|Members|
 |-----|-------|
-|1|Bhavik, Emmanuel, Jeanette, Jordan|
-|2|Josh, Kavya, Komal, Lane|
-|3|Lauren, Madison, Mohammad, Jarad, Sameera|
+|1|Bhavik, Emmanuel, Jordan|
+|2|Josh, Kavya, Lane|
+|3|Lauren, Madison, Mohammad, Sameera|
 
 ## Schedule Overview
 ![Image](/img/bootcamp-schedule-verizon-2024.png "Bootcamp Schedule Overview")
