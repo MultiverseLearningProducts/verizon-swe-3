@@ -18,24 +18,13 @@
 |2|Josh, Kavya, Lane|
 |3|Lauren, Madison, Mohammad, Sameera|
 
-## Schedule Overview
-![Image](/img/bootcamp-schedule-verizon-2024.png "Bootcamp Schedule Overview")
-
-## Sample Daily Schedules
-![Image](/img/daily-schedule-verizon-2024.png "Sample Daily Schedules")
-
 ## Resources
 
-### Helpful Resources
-* [Multiverse Student Success](https://github.com/MultiverseLearningProducts/SWE-APPRENTICE-SUCCESS) - extra practice at the Primer, Progressor, and Prodigy levels
-* [JavaScript Language](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - official language docs
-* [Codecademy Intro to JS](https://www.codecademy.com/learn/introduction-to-javascript) - online course
-* [Eloquent JS Book](https://eloquentjavascript.net/) - online text
-* [w3schools JavaScript Tutorial](https://www.w3schools.com/js/) - examples to try
-* [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator) - official docs
-* [React ES6 Ternary Operator](https://www.w3schools.com/react/react_es6_ternary.asp) - w3schools
+### Main README
+* [Cohort Resources](/README.md/#coding-resources)
+* [Coding Resources](/README.md/#coding-resources)
+* [Extra Challenge](/README.md/#extra-challenge) 
 
-### Extra Challenge
-* [general resources](/README.md/#extra-challenge) - front page of this course repo
+### This week
 * [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) - official docs
 * [JavaScript Switch Statements - When to switch over if/else?](https://youtu.be/Z8DGby3eBHg) - video (8 min)

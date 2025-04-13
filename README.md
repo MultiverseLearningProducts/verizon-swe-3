@@ -18,6 +18,15 @@
 | [Recording](https://drive.google.com/file/d/1d0QKgYeK9hQo3mg99Ilb3YJv5qUNfu_A)|Flying Start Live Session
 | [Workshop Schedule](https://docs.google.com/spreadsheets/d/1H5MGxYiWSYtX5EADSLWBvUG7yhNvhXEY9MgdenCE8zU)|bootcamp topics, daily schedules, etc
 
+### Coding Resources
+* [Multiverse Student Success](https://github.com/MultiverseLearningProducts/SWE-APPRENTICE-SUCCESS) - extra practice at the Primer, Progressor, and Prodigy levels
+* [JavaScript Language](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - official language docs
+* [Codecademy Intro to JS](https://www.codecademy.com/learn/introduction-to-javascript) - online course
+* [Eloquent JS Book](https://eloquentjavascript.net/) - online text
+* [w3schools JavaScript Tutorial](https://www.w3schools.com/js/) - examples to try
+* [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator) - official docs
+* [React ES6 Ternary Operator](https://www.w3schools.com/react/react_es6_ternary.asp) - w3schools
+
 ### Extra Challenge
 * [edabit](https://edabit.com) - challenges and tutorials
 * [codewars](https://www.codewars.com/) - achieve mastery through practice. You can view how others solved the problem.
