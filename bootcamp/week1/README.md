@@ -5,7 +5,7 @@
 ## Daily Sessions
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
-|Apr 14|Fundamentals|
+|Apr 14|Fundamentals|[meet](https://drive.google.com/file/d/1r42Ml6xeFcJC3Tu0Eth07fx7DOzKXLse)|[slides](https://docs.google.com/presentation/d/1noKNiTWBJ0VPgNrZkrqGIHUf60GgJOETRJYRWnOjkIE), [demo](./demo)
 |Apr 15|Variables & Expressions|
 |Apr 16|Conditionals|
 |Apr 17|Functions|
