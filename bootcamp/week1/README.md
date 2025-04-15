@@ -29,3 +29,4 @@
 * [switch statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch) - official docs
 * [JavaScript Switch Statements - When to switch over if/else?](https://youtu.be/Z8DGby3eBHg) - video (8 min)
 * [Var, Let, Const in JavaScript + scope and hoisting](https://dev.to/bigsondev/var-let-const-in-javascript-scope-and-hoisting-2i0i) - article
+* [Null](https://developer.mozilla.org/en-US/docs/Glossary/Null) - MSDN glossary
