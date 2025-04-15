@@ -6,7 +6,7 @@
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
 |Apr 14|Fundamentals|[meet](https://drive.google.com/file/d/1r42Ml6xeFcJC3Tu0Eth07fx7DOzKXLse)|[slides](https://docs.google.com/presentation/d/1noKNiTWBJ0VPgNrZkrqGIHUf60GgJOETRJYRWnOjkIE), [demo](./day1/demo/)
-|Apr 15|Variables & Expressions||[slides](https://docs.google.com/presentation/d/12H5Vyy6ZSAH8Wr9w3AWCURUEIB8HOpxSGW_zEH82Qxo), [demo](./day2/demo/)
+|Apr 15|Variables & Expressions|[meet](https://drive.google.com/file/d/1-aSqNXWrhooz_DLChnEQzlSRwfvtsnyy)|[slides](https://docs.google.com/presentation/d/12H5Vyy6ZSAH8Wr9w3AWCURUEIB8HOpxSGW_zEH82Qxo), [demo](./day2/demo/)
 |Apr 16|Conditionals|
 |Apr 17|Functions|
 |Apr 18|Rock, Paper, Scissors Project|
