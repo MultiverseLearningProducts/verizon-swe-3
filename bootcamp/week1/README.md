@@ -8,8 +8,8 @@
 |Apr 14|Fundamentals|[meet](https://drive.google.com/file/d/1r42Ml6xeFcJC3Tu0Eth07fx7DOzKXLse)|[slides](https://docs.google.com/presentation/d/1noKNiTWBJ0VPgNrZkrqGIHUf60GgJOETRJYRWnOjkIE), [demo](./day1/demo/)
 |Apr 15|Variables & Expressions|[meet](https://drive.google.com/file/d/1-aSqNXWrhooz_DLChnEQzlSRwfvtsnyy)|[slides](https://docs.google.com/presentation/d/12H5Vyy6ZSAH8Wr9w3AWCURUEIB8HOpxSGW_zEH82Qxo), [demo](./day2/demo/)
 |Apr 16|Conditionals|[meet](https://drive.google.com/file/d/1PQKlJd3xAnGHN1VCz_XvsmNwbCjX8aau)|[slides](https://docs.google.com/presentation/d/1G3s3jZfr8tkfbTONrV1C1Pl8lUF7Rz2FvX33HWR8bkc)
-|Apr 17|Functions|
-|Apr 18|Rock, Paper, Scissors Project|
+|Apr 17|Functions||[slides](https://docs.google.com/presentation/d/17hl7-3x5yrSU8EFjQYKeG1n07ArQfpbhzbBq7Sm623o)
+|Apr 18|Rock, Paper, Scissors Project||[rock paper scissors explained](/img/rock-paper-scissors-explained.webp)
 
 ## Squads
 |Squad|Members|
