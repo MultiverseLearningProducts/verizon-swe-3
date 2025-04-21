@@ -9,7 +9,7 @@
 |Apr 15|Variables & Expressions|[meet](https://drive.google.com/file/d/1-aSqNXWrhooz_DLChnEQzlSRwfvtsnyy)|[slides](https://docs.google.com/presentation/d/12H5Vyy6ZSAH8Wr9w3AWCURUEIB8HOpxSGW_zEH82Qxo), [demo](./day2/demo/)
 |Apr 16|Conditionals|[meet](https://drive.google.com/file/d/1PQKlJd3xAnGHN1VCz_XvsmNwbCjX8aau)|[slides](https://docs.google.com/presentation/d/1G3s3jZfr8tkfbTONrV1C1Pl8lUF7Rz2FvX33HWR8bkc)
 |Apr 17|Functions|[meet](https://drive.google.com/file/d/1UuokkVC-G_8fajyF2I8pQ-8Pgme4ecJ4)|[slides](https://docs.google.com/presentation/d/17hl7-3x5yrSU8EFjQYKeG1n07ArQfpbhzbBq7Sm623o)
-|Apr 18|Rock, Paper, Scissors Project||[rock paper scissors explained](/img/rock-paper-scissors-explained.webp)
+|Apr 18|Rock, Paper, Scissors Project|[meet](https://drive.google.com/file/d/1haCmNQwcML0SvCW5Jrljkh7819lyb3O3)|[rock paper scissors explained](/img/rock-paper-scissors-explained.webp)
 
 ## Squads
 |Squad|Members|
