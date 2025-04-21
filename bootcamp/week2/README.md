@@ -5,7 +5,7 @@
 ## Daily Sessions
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
-|Apr 21|Arrays|
+|Apr 21|Arrays|[meet](https://drive.google.com/file/d/1qjEGfe4QTOgBfRmu16MC792RN-AjgBmI)|[slides](https://docs.google.com/presentation/d/1CIOXN28sadhgKK_iuHYlKxX-iQ7AToWy7JbUZbny3qs)
 |Apr 22|Objects|
 |Apr 23|Loops|
 |Apr 24|Recursion|
