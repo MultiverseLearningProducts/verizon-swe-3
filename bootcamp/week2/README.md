@@ -6,7 +6,7 @@
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
 |Apr 21|Arrays|[meet](https://drive.google.com/file/d/1qjEGfe4QTOgBfRmu16MC792RN-AjgBmI)|[slides](https://docs.google.com/presentation/d/1CIOXN28sadhgKK_iuHYlKxX-iQ7AToWy7JbUZbny3qs)
-|Apr 22|Objects|
+|Apr 22|Objects||[slides](https://docs.google.com/presentation/d/1YgDuZQVJaQWaaqshTjYkE7yyie9ibqihAiYlqteK5zE)
 |Apr 23|Loops|
 |Apr 24|Recursion|
 |Apr 25|Cash Register Project|
@@ -29,3 +29,4 @@
 * [Arrow Functions vs Normal Functions in JavaScript | The Syntax and 5 Other Differences](https://youtu.be/M10gzHpIUDw) - video (16 min)
 * [Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) - official docs
 * [How Recursion works with the Call Stack in JavaScript](https://youtu.be/D71LzJBdaKw) - video (9 min)
+* [Deep copying Javascript Arrays](https://medium.com/@ziyoshams/deep-copying-javascript-arrays-4d5fc45a6e3e) - article explaining references, shallow and deep copy
