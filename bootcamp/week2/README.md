@@ -6,7 +6,7 @@
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
 |Apr 21|Arrays|[meet](https://drive.google.com/file/d/1qjEGfe4QTOgBfRmu16MC792RN-AjgBmI)|[slides](https://docs.google.com/presentation/d/1CIOXN28sadhgKK_iuHYlKxX-iQ7AToWy7JbUZbny3qs)
-|Apr 22|Objects||[slides](https://docs.google.com/presentation/d/1YgDuZQVJaQWaaqshTjYkE7yyie9ibqihAiYlqteK5zE)
+|Apr 22|Objects||[slides](https://docs.google.com/presentation/d/1YgDuZQVJaQWaaqshTjYkE7yyie9ibqihAiYlqteK5zE), [demo](./day2/demo/src/index.js), [demo: copying references](./day2/demo/src/copying.js)
 |Apr 23|Loops|
 |Apr 24|Recursion|
 |Apr 25|Cash Register Project|
