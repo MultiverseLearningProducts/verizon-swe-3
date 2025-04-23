@@ -7,7 +7,7 @@
 |-----| ------------- |---------------------|--------|
 |Apr 21|Arrays|[meet](https://drive.google.com/file/d/1qjEGfe4QTOgBfRmu16MC792RN-AjgBmI)|[slides](https://docs.google.com/presentation/d/1CIOXN28sadhgKK_iuHYlKxX-iQ7AToWy7JbUZbny3qs)
 |Apr 22|Objects|[meet](https://drive.google.com/file/d/19VLsUQ7aidIO3yKCWe0d6q4jOsPtSbuX)|[slides](https://docs.google.com/presentation/d/1YgDuZQVJaQWaaqshTjYkE7yyie9ibqihAiYlqteK5zE), [demo](./day2/demo/src/index.js), [demo: copying references](./day2/demo/src/copying.js)
-|Apr 23|Loops|
+|Apr 23|Loops||[slides](https://docs.google.com/presentation/d/1AsNVM0yQzgVGJZ60N9m00JlsqhZ7wWjcOWr0Dh-uRs4)
 |Apr 24|Recursion|
 |Apr 25|Cash Register Project|
 
@@ -30,3 +30,5 @@
 * [Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) - official docs
 * [How Recursion works with the Call Stack in JavaScript](https://youtu.be/D71LzJBdaKw) - video (9 min)
 * [Deep copying Javascript Arrays](https://medium.com/@ziyoshams/deep-copying-javascript-arrays-4d5fc45a6e3e) - article explaining references, shallow and deep copy
+* [Method Chaining is Awesome](https://youtu.be/OdOl_O8hyBM) - video (4 min)
+* [Bi-directional typing](https://www.instagram.com/prezicom/reel/C6HGcpMLtx8/?hl=en) - SHORT video of bidirectional text entry (14 sec)
