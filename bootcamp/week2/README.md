@@ -7,7 +7,7 @@
 |-----| ------------- |---------------------|--------|
 |Apr 21|Arrays|[meet](https://drive.google.com/file/d/1qjEGfe4QTOgBfRmu16MC792RN-AjgBmI)|[slides](https://docs.google.com/presentation/d/1CIOXN28sadhgKK_iuHYlKxX-iQ7AToWy7JbUZbny3qs)
 |Apr 22|Objects|[meet](https://drive.google.com/file/d/19VLsUQ7aidIO3yKCWe0d6q4jOsPtSbuX)|[slides](https://docs.google.com/presentation/d/1YgDuZQVJaQWaaqshTjYkE7yyie9ibqihAiYlqteK5zE), [demo](./day2/demo/src/index.js), [demo: copying references](./day2/demo/src/copying.js)
-|Apr 23|Loops||[slides](https://docs.google.com/presentation/d/1AsNVM0yQzgVGJZ60N9m00JlsqhZ7wWjcOWr0Dh-uRs4), [demo](./day3/demo/src/index.js), [for...in vs for...of](./day3/demo/src/for.js), [internationalPets](./day3/demo/src/internationalPets.js)
+|Apr 23|Loops|[meet](https://drive.google.com/file/d/1TSWP-0-KBakC5ETIMt8nrmtzNA02s46h)|[slides](https://docs.google.com/presentation/d/1AsNVM0yQzgVGJZ60N9m00JlsqhZ7wWjcOWr0Dh-uRs4), [demo](./day3/demo/src/index.js), [for...in vs for...of](./day3/demo/src/for.js), [internationalPets](./day3/demo/src/internationalPets.js)
 |Apr 24|Recursion|
 |Apr 25|Cash Register Project|
 
