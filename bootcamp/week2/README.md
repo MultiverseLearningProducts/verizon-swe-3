@@ -8,7 +8,7 @@
 |Apr 21|Arrays|[meet](https://drive.google.com/file/d/1qjEGfe4QTOgBfRmu16MC792RN-AjgBmI)|[slides](https://docs.google.com/presentation/d/1CIOXN28sadhgKK_iuHYlKxX-iQ7AToWy7JbUZbny3qs)
 |Apr 22|Objects|[meet](https://drive.google.com/file/d/19VLsUQ7aidIO3yKCWe0d6q4jOsPtSbuX)|[slides](https://docs.google.com/presentation/d/1YgDuZQVJaQWaaqshTjYkE7yyie9ibqihAiYlqteK5zE), [demo](./day2/demo/src/index.js), [demo: copying references](./day2/demo/src/copying.js)
 |Apr 23|Loops|[meet](https://drive.google.com/file/d/1TSWP-0-KBakC5ETIMt8nrmtzNA02s46h)|[slides](https://docs.google.com/presentation/d/1AsNVM0yQzgVGJZ60N9m00JlsqhZ7wWjcOWr0Dh-uRs4), [demo](./day3/demo/src/index.js), [for...in vs for...of](./day3/demo/src/for.js), [internationalPets](./day3/demo/src/internationalPets.js)
-|Apr 24|Recursion|
+|Apr 24|Recursion||[slides](https://docs.google.com/presentation/d/1C__aoPzJPRyOGKB8xw8hJfCLM8Fx3a0ZTNsVh4micQk)
 |Apr 25|Cash Register Project|
 
 ## Squads
@@ -32,3 +32,4 @@
 * [Deep copying Javascript Arrays](https://medium.com/@ziyoshams/deep-copying-javascript-arrays-4d5fc45a6e3e) - article explaining references, shallow and deep copy
 * [Method Chaining is Awesome](https://youtu.be/OdOl_O8hyBM) - video (4 min)
 * [Bi-directional typing](https://www.instagram.com/prezicom/reel/C6HGcpMLtx8/?hl=en) - SHORT video of bidirectional text entry (14 sec)
+* [Hand Tracing - Intro to Java Programming](https://www.youtube.com/watch?v=TZss5ukwN8s) - video (2 min)
