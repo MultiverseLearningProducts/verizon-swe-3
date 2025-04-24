@@ -33,12 +33,13 @@
 * [Method Chaining is Awesome](https://youtu.be/OdOl_O8hyBM) - video (4 min)
 * [Bi-directional typing](https://www.instagram.com/prezicom/reel/C6HGcpMLtx8/?hl=en) - SHORT video of bidirectional text entry (14 sec)
 * [Hand Tracing - Intro to Java Programming](https://www.youtube.com/watch?v=TZss5ukwN8s) - video (2 min)
-* [Recursion with Backtracking](https://youtu.be/Zq4upTEaQyM)
+* [Recursion with Backtracking](https://youtu.be/Zq4upTEaQyM) - advanced
 * [LeetCode Beginner's Guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)
 
 ### Extra Recursion Challenges
-* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+*These challenges are doable with what you know!*
+* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - on LeetCode
 * [Power of Three](https://leetcode.com/problems/power-of-three/) - on LeetCode
-* [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/)
-* [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+* [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) - on LeetCode
+* [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) - on LeetCode
 
