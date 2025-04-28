@@ -26,3 +26,4 @@
 * [Git Tutorial for Beginners](https://youtu.be/AQ9ksXoBAOg) - video (45 min)
 * [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - 2 pages
 * [git-scm](https://git-scm.com) - detailed docs
+* [Schedule launch meeting](https://calendly.com/laurie-corrin/multiverse-apprenticeship-launch-meeting)
