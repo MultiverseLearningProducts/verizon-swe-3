@@ -5,7 +5,7 @@
 ## Daily Sessions
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
-|Apr 28|git & HTML||[slides](https://docs.google.com/presentation/d/1gd4DZJQCV3sE-Vp1idIo9e5k9Uhr1hbgqiz14yo8hYQ)
+|Apr 28|git & HTML|[meet](https://drive.google.com/file/d/18dj_oxPl5Q9FIJeI2sz6fFIY31-H-tVT)|[slides](https://docs.google.com/presentation/d/1gd4DZJQCV3sE-Vp1idIo9e5k9Uhr1hbgqiz14yo8hYQ)
 |Apr 29|HTML & CSS|
 |Apr 30|Page Layouts|
 |May 1|JavaScript Events|
