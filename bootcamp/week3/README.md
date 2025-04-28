@@ -1,0 +1,28 @@
+![Image](/img/Multiverse_Logo_rgb_ultra_25.jpg "Multiverse banner")
+
+# Bootcamp - Week 3
+
+## Daily Sessions
+|Day|Topic|Recording|Resources|
+|-----| ------------- |---------------------|--------|
+|Apr 28|git & HTML||[slides](https://docs.google.com/presentation/d/1gd4DZJQCV3sE-Vp1idIo9e5k9Uhr1hbgqiz14yo8hYQ)
+|Apr 29|HTML & CSS|
+|Apr 30|Page Layouts|
+|May 1|JavaScript Events|
+|May 2|Personal Webpage Project|
+
+## Squads
+|Squad|Name|Members|
+|-----|----|-------|
+|1|Fire|Jordan, Joshua, Madison
+|2|Water|Lauren, Kavya, Lane
+|3|Electric|Bhavik, Emmanuel, Mohammad, Sameera
+
+## Resources
+
+### This week
+* [Changing your primary email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/changing-your-primary-email-address) - GitHub Docs
+* [Git Workflow](https://zoom.us/clips/share/LJQAOr8nATG4LT-6VxfjRuVCPHR7iW8LYiX6t6lNEWbPZSgfUEddgNeNObdeXrjAlhZvmkhzeZYjywHtQgbh5f0C.LCPu3mOi9dTPvtQx) - video (5 min)
+* [Git Tutorial for Beginners](https://youtu.be/AQ9ksXoBAOg) - video (45 min)
+* [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - 2 pages
+* [git-scm](https://git-scm.com) - detailed docs
