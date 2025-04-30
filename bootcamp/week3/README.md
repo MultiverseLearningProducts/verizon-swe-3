@@ -7,7 +7,7 @@
 |-----| ------------- |---------------------|--------|
 |Apr 28|git & HTML|[meet](https://drive.google.com/file/d/18dj_oxPl5Q9FIJeI2sz6fFIY31-H-tVT)|[slides](https://docs.google.com/presentation/d/1gd4DZJQCV3sE-Vp1idIo9e5k9Uhr1hbgqiz14yo8hYQ)
 |Apr 29|HTML & CSS|[meet](https://drive.google.com/file/d/1d5yaI_Vm4i14rqNCbPx_71zfniuu1ros)|[slides](https://docs.google.com/presentation/d/1hmEil1_WKpFbODJKpOaFnXqPF1InVOaT-dQwjvJa5ak), [demo repo](https://github.com/Laurie-Multiverse/html-css-demo)
-|Apr 30|Page Layouts||[slides](https://docs.google.com/presentation/d/1mmwJlo3Hc75esd6WrGhEPrmF4A72j8O6eS_QY6MXlw0), [demo repo branch](https://github.com/Laurie-Multiverse/html-css-demo/tree/w3d3-demo), [flexbox playground demo](https://github.com/Laurie-Multiverse/html-css-demo/tree/w3d3-demo/flexbox)
+|Apr 30|Page Layouts|[meet](https://drive.google.com/file/d/1pLCM7OWeMwv-tPEyx3LAxnqafTQPjU_9/view?usp=drive_link)|[slides](https://docs.google.com/presentation/d/1mmwJlo3Hc75esd6WrGhEPrmF4A72j8O6eS_QY6MXlw0), [demo repo branch](https://github.com/Laurie-Multiverse/html-css-demo/tree/w3d3-demo), [flexbox playground demo](https://github.com/Laurie-Multiverse/html-css-demo/tree/w3d3-demo/flexbox)
 |May 1|JavaScript Events|
 |May 2|Personal Webpage Project|
 
