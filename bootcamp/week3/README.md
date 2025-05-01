@@ -20,6 +20,9 @@
 
 ## Resources
 
+### NEW RESOURCE (apprentice recommended!)
+* [The Modern JavaScript Tutorial](https://javascript.info/) - online reference
+
 ### This week
 * [Changing your primary email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/changing-your-primary-email-address) - GitHub Docs
 * [Git Workflow](https://zoom.us/clips/share/LJQAOr8nATG4LT-6VxfjRuVCPHR7iW8LYiX6t6lNEWbPZSgfUEddgNeNObdeXrjAlhZvmkhzeZYjywHtQgbh5f0C.LCPu3mOi9dTPvtQx) - video (5 min)

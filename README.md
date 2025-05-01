@@ -26,6 +26,7 @@
 * [Codecademy Intro to JS](https://www.codecademy.com/learn/introduction-to-javascript) - online course
 * [Eloquent JS Book](https://eloquentjavascript.net/) - online text
 * [w3schools JavaScript Tutorial](https://www.w3schools.com/js/) - examples to try
+* [The Modern JavaScript Tutorial](https://javascript.info/) - online reference (apprentice recommended!)
 * [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator) - official docs
 * [React ES6 Ternary Operator](https://www.w3schools.com/react/react_es6_ternary.asp) - w3schools
 
