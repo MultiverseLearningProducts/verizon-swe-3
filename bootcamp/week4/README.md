@@ -20,6 +20,9 @@
 
 ## Resources
 
+### GitHub Classroom link
+* [Scooter Project](https://classroom.github.com/a/7WAiWhgL) - join and clone from here
+
 ### This week
 * [JavaScript Classes vs Prototypes](https://youtu.be/XoQKXDWbL1M) - video (15 min)
 * [Objects, Prototypes and Classes in JavaScript](https://www.digitalocean.com/community/tutorials/js-objects-prototypes-classes) - article
