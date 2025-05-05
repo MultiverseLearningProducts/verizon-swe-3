@@ -5,7 +5,7 @@
 ## Daily Sessions
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
-|May 5|Classes|
+|May 5|Classes||[slides](https://docs.google.com/presentation/d/1LH-Rq74SBPnYhOW7N8ES6f7GAWglM8ySDmLXyQg8XXc)
 |May 6|Inheritance and Static Methods|
 |May 7|Encapsulation|
 |May 8|TDD (Test-Driven Development)|
@@ -23,6 +23,7 @@
 ### This week
 * [JavaScript Classes vs Prototypes](https://youtu.be/XoQKXDWbL1M) - video (15 min)
 * [Objects, Prototypes and Classes in JavaScript](https://www.digitalocean.com/community/tutorials/js-objects-prototypes-classes) - article
+* [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain) - official docs
 * [Mixins](https://javascript.info/mixins) - article
 * [jest documentation](https://jestjs.io/docs/getting-started) - official docs
 * [expect reference](https://jestjs.io/docs/expect) - official docs
