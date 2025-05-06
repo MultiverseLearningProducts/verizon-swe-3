@@ -30,3 +30,4 @@
 * [Mixins](https://javascript.info/mixins) - article
 * [jest documentation](https://jestjs.io/docs/getting-started) - official docs
 * [expect reference](https://jestjs.io/docs/expect) - official docs
+* [Unified Modeling Language (UML) Diagrams](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction) - Geeksfor Geeks explanation
