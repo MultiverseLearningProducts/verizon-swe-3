@@ -5,8 +5,8 @@
 ## Daily Sessions
 |Day|Topic|Recording|Resources|
 |-----| ------------- |---------------------|--------|
-|May 5|Classes|[meet](https://drive.google.com/file/d/1SAEugjcg7eHvhbh4l1RfdiJhvXGodLsd)|[slides](https://docs.google.com/presentation/d/1LH-Rq74SBPnYhOW7N8ES6f7GAWglM8ySDmLXyQg8XXc)
-|May 6|Inheritance and Static Methods||[slides](https://docs.google.com/presentation/d/1CjTRxBUfsgHHLLT1ncFwAPBkSsa3iH2Ap8NsWcTDWAQ)
+|May 5|Classes|[meet](https://drive.google.com/file/d/1SAEugjcg7eHvhbh4l1RfdiJhvXGodLsd)|[slides](https://docs.google.com/presentation/d/1LH-Rq74SBPnYhOW7N8ES6f7GAWglM8ySDmLXyQg8XXc), [demo](https://github.com/Laurie-Multiverse/rpg-demo/tree/day1)
+|May 6|Inheritance and Static Methods||[slides](https://docs.google.com/presentation/d/1CjTRxBUfsgHHLLT1ncFwAPBkSsa3iH2Ap8NsWcTDWAQ), [demo](https://github.com/Laurie-Multiverse/rpg-demo/tree/day2)
 |May 7|Encapsulation|
 |May 8|TDD (Test-Driven Development)|
 |May 9|Scooter Project|
