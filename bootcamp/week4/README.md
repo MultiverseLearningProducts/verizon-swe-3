@@ -8,7 +8,7 @@
 |May 5|Classes|[meet](https://drive.google.com/file/d/1SAEugjcg7eHvhbh4l1RfdiJhvXGodLsd)|[slides](https://docs.google.com/presentation/d/1LH-Rq74SBPnYhOW7N8ES6f7GAWglM8ySDmLXyQg8XXc), [demo](https://github.com/Laurie-Multiverse/rpg-demo/tree/day1)
 |May 6|Inheritance and Static Methods|[meet](https://drive.google.com/file/d/1wqW7SNhfc6WsC8_QAaRWFoLEp59tLzyy)|[slides](https://docs.google.com/presentation/d/1CjTRxBUfsgHHLLT1ncFwAPBkSsa3iH2Ap8NsWcTDWAQ), [demo](https://github.com/Laurie-Multiverse/rpg-demo/tree/day2)
 |May 7|Encapsulation|[meet](https://drive.google.com/file/d/1133-53Ut7VKZQA6IHbmCyOv1IN6SK8ZJ)|[slides](https://docs.google.com/presentation/d/10ahJommDNxClwYxcdOvPNgJq7wHAxrRXFPkOcRjMUE0), [demo](https://github.com/Laurie-Multiverse/rpg-demo/tree/day3), [scooter app demo](https://drive.google.com/file/d/1xwckwgNbXDTOBwvnlzBBNRvV5GjsWC5z)
-|May 8|TDD (Test-Driven Development)||[slides](https://docs.google.com/presentation/d/1aIPlCKuo7Lkv8uhyNtsfx_5Da3AbOZsAee97Pb48MTw)
+|May 8|TDD (Test-Driven Development)|[meet](https://drive.google.com/file/d/1kFIj1FasvrIz1G6EU1ky_N6kUg4_mlnK)|[slides](https://docs.google.com/presentation/d/1aIPlCKuo7Lkv8uhyNtsfx_5Da3AbOZsAee97Pb48MTw)
 |May 9|Scooter Project|
 
 ## Squads
