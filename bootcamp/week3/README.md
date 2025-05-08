@@ -24,14 +24,27 @@
 * [The Modern JavaScript Tutorial](https://javascript.info/) - online reference
 
 ### This week
+* [Schedule launch meeting](https://calendly.com/laurie-corrin/multiverse-apprenticeship-launch-meeting)
+
+### Git/GitHub
 * [Changing your primary email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/changing-your-primary-email-address) - GitHub Docs
 * [Git Workflow](https://zoom.us/clips/share/LJQAOr8nATG4LT-6VxfjRuVCPHR7iW8LYiX6t6lNEWbPZSgfUEddgNeNObdeXrjAlhZvmkhzeZYjywHtQgbh5f0C.LCPu3mOi9dTPvtQx) - video (5 min)
 * [Git Tutorial for Beginners](https://youtu.be/AQ9ksXoBAOg) - video (45 min)
 * [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - 2 pages
 * [git-scm](https://git-scm.com) - detailed docs
-* [Schedule launch meeting](https://calendly.com/laurie-corrin/multiverse-apprenticeship-launch-meeting)
+* [Working with git outside the VPN](#working-with-git-outside-the-vpn) - commands below
+
+### HTML/CSS
 * [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp) - W3Schools
 * [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp) - W3Schools (see pages for Events, Event Listener, etc)
+* [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) - W3Schools on section, article, etc
+* [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) - try colors for accessibility
+* [Markup Validation Service](https://validator.w3.org/) - W3C
+* [CSS Validation Service](https://jigsaw.w3.org/css-validator/) - W3C
+* [CSS Lint Online](https://csslint.net/) - another CSS checker
+* [CSS Variables - The var() Function](https://www.w3schools.com/css/css3_variables.asp) - W3Schools
+* [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) - mdn web docs
+
 
 ### Working with git outside the VPN
 ```
