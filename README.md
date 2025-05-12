@@ -5,7 +5,8 @@
 # All workshops are held in [**Google Meet**](https://meet.google.com/xqm-uzbw-yak)
 
 ## Modules
-* [Bootcamp - Week 4](/bootcamp/week4/) - current module
+* [Bootcamp - Week 5](/bootcamp/week5/) - current module
+* [Bootcamp - Week 4](/bootcamp/week4/)
 * [Bootcamp - Week 3](/bootcamp/week3/)
 * [Bootcamp - Week 2](/bootcamp/week2/)
 * [Bootcamp - Week 1](/bootcamp/week1/)
