@@ -6,10 +6,17 @@
 |Day|Topic|Recording|Resources|
 |-----|-------------|---------------------|--------|
 |May 12|Asynchronous JavaScript|*asynchronous workshop*|[slides](https://docs.google.com/presentation/d/1pUesmWRo_dUFj4u4qqS3r47UyI7ngq1PB07kWpwwoQM), [recorded lesson](https://drive.google.com/file/d/1BGnxLkn7Ei214Jw87QqQQzJw7sdG_dNN/edit), [demo](https://github.com/Laurie-Multiverse/pokemon-demo/tree/day1)
-|May 13|SQL|
+|May 13|SQL||[slides](), [demo](https://github.com/Laurie-Multiverse/pokemon-demo/tree/day2)
 |May 14|Sequelize|
 |May 15|Associations|
 |mAY 16|Card Game Project|
+
+## Squads
+|Squad|Name|Members|
+|-----|----|-------|
+|1|Mario|Bhavik, Madison, Mohammad, Kavya
+|2|Luigi|Josh, Sameera, Jordan 
+|3|Peach|Lauren, Emmanuel, Lane
 
 ## Resources
 
