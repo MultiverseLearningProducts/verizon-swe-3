@@ -7,7 +7,7 @@
 |-----|-------------|---------------------|--------|
 |May 12|Asynchronous JavaScript|*asynchronous workshop*|[slides](https://docs.google.com/presentation/d/1pUesmWRo_dUFj4u4qqS3r47UyI7ngq1PB07kWpwwoQM), [recorded lesson](https://drive.google.com/file/d/1BGnxLkn7Ei214Jw87QqQQzJw7sdG_dNN/edit), [demo](https://github.com/Laurie-Multiverse/pokemon-demo/tree/day1)
 |May 13|SQL|[meet](https://drive.google.com/file/d/1Cehy6DpQhYpppBgJIVNILkwV8B5kqMZW)|[slides](https://docs.google.com/presentation/d/1U8mQ4kAS_wzoT-K_uj2BqTLNiUhNpUyN8Jpypw5LtFo), [demo](https://github.com/Laurie-Multiverse/pokemon-demo/tree/day2)
-|May 14|Sequelize||[slides](https://docs.google.com/presentation/d/1LuZICFwun5vZbFPZc1zacJ6lD8ZIaw1h4vkzu3dB78k)
+|May 14|Sequelize||[slides](https://docs.google.com/presentation/d/1LuZICFwun5vZbFPZc1zacJ6lD8ZIaw1h4vkzu3dB78k), [demo](https://github.com/Laurie-Multiverse/pokemon-demo/tree/day3)
 |May 15|Associations|
 |mAY 16|Card Game Project|
 
