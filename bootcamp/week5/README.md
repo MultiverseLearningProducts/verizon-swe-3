@@ -9,7 +9,7 @@
 |May 13|SQL|[meet](https://drive.google.com/file/d/1Cehy6DpQhYpppBgJIVNILkwV8B5kqMZW)|[slides](https://docs.google.com/presentation/d/1U8mQ4kAS_wzoT-K_uj2BqTLNiUhNpUyN8Jpypw5LtFo), [demo](https://github.com/Laurie-Multiverse/pokemon-demo/tree/day2)
 |May 14|Sequelize|[meet](https://drive.google.com/file/d/1H4eLkT2Frqnc4iI2Z0S_y2q9NvB2w1Ru)|[slides](https://docs.google.com/presentation/d/1LuZICFwun5vZbFPZc1zacJ6lD8ZIaw1h4vkzu3dB78k), [demo](https://github.com/Laurie-Multiverse/pokemon-demo/tree/day3)
 |May 15|Associations|[meet](https://drive.google.com/file/d/1QQ1hFqrtd1Eu6Yh3YGKHEk0KLiu6i0jn)|[slides](https://docs.google.com/presentation/d/1jXjJvFjHpQrXDBBHvJzjyhILBMVz9vKQh6W1HL3nAWw), [demo](https://github.com/Laurie-Multiverse/pokemon-demo/tree/day4-2025)
-|mAY 16|Card Game Project|
+|mAY 16|Card Game Project||[slides](https://docs.google.com/presentation/d/15vCzyy-ioGc4S5XJXMtIiZkWL2Cl_3U9L-SsrO_aKUY)
 
 ## Squads
 |Squad|Name|Members|
